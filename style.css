@@ -48,3 +48,8 @@ nav.navbar ol {
     font-weight:700 ;
     color: #fff;
 }
+
+/* ##### Hero ##### */
+div.hero img {
+    width: 100%;
+}
